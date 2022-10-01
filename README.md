@@ -1,5 +1,5 @@
 # Project-EULER</br>
-Resolution of the 25 firts problems of the Euler Project</br>
+Resolution of the 25 first problems of the Euler Project</br>
 
 **Link :** https://projecteuler.net/</br>
 
