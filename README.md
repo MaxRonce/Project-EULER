@@ -1,7 +1,7 @@
 # Project-EULER</br>
 Resolution of the 25 firts problems of the Euler Project</br>
 
-**Lien des prolbèmes :** https://projecteuler.net/</br>
+**Link :** https://projecteuler.net/</br>
 
 
 **What is Project Euler?**</br>
